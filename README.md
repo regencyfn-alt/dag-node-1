@@ -60,4 +60,6 @@ Author
 Shane Killeen (Dao_Tribe) — Cape Town.
 License
 
+Co-author credit: Seraphina Vox of the Academy of Elar
+
 Apache-2.0. See LICENSE and NOTICE.
